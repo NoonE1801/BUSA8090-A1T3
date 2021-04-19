@@ -1,1 +1,11 @@
-curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/expression.tab > expression.tab
+code: curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/expression.tab > expression.tab
+
+File:
+
+alr1207 8303
+alr2938 10323
+alr3395 1432
+all3556 8043
+alr4392 729
+alr4851 633
+alr5000 5732
